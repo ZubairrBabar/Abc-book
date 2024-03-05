@@ -1,0 +1,66 @@
+body{
+    background-color:black ;
+    
+    
+}
+
+
+h1{
+    text-align: center;
+    font-size: 500%;
+    
+    text-shadow: 10px 5px 10px rgb(95, 111, 116) ;
+    letter-spacing: 0.2em;
+    background-color: rgba(255, 255, 253, 0.808);
+    opacity: ;
+    
+}
+p{
+    font-size: 600%;
+    color: rgb(17, 17, 17);
+    text-shadow:10px 5px  15px  rgb(85, 77, 77);
+    margin-right: ;
+    margin-left: 10%;
+}
+    span{
+        font-size: 80%;
+        text-shadow: none;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 40%;
+    }
+
+    div{
+       background-color: rgb(255, 255, 255);
+        margin: 0px 250px 0px 250px;
+        
+       
+    }
+
+    button{
+        opacity: 0.6;
+      font-size: 400%; 
+      margin-left: 90%;
+      background-color:rgb(226, 226, 226);
+      
+      }
+      p::first-letter{
+          font-size: %250;
+      }
+div#one{
+    background-color:  rgb(226, 226, 226);
+    margin: 5px 40px 10px 40px;
+}
+div#form{
+    background-color: rgb(190, 213, 216);
+    color: black;
+    margin-bottom: px;
+
+
+}
+input:hover{
+   
+   background-color : rgb(127, 156, 160);
+}
+   
+
+   
